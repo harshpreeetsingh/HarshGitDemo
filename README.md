@@ -1,3 +1,3 @@
 # HarshGitDemo
-This is first Git Repository.
+This is my first Git Repository.
 Author - Harshpreet Singh
